@@ -6,7 +6,7 @@ This program utilizes the Covalent API to access ticker data of numerous cryptoc
 
 The program is paired with a test file containing unit tests for all the major functions called in the main program.
 
-[Find the Covalent API Here] (https://www.covalenthq.com/docs/api/#get-spot-prices)
+[Find the Covalent API Here](https://www.covalenthq.com/docs/api/#get-spot-prices)
 
 The http request is made to:
 ```console
