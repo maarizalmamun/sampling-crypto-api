@@ -39,10 +39,10 @@ High level logic overview - An API GET request and data is stored locally into a
 
 ## Relevant Files
 
-**tickers.py** - The heart of the program.
-**test_tickers.py** - Unit testing for the main program.
-**results/histogram1hr-result.png** - Example output of program from personal test - Histogram outlining frequencies of null address detection
-**results/null-count.txt** -  Example resultant array after filtering for tokens with occurances of a null address. All of these tickers are printed and their count is displayed.
+- **tickers.py** - The heart of the program.
+- **test_tickers.py** - Unit testing for the main program.
+- **results/histogram1hr-result.png** - Example output of program from personal test - Histogram outlining frequencies of null address detection
+- **results/null-count.txt** -  Example resultant array after filtering for tokens with occurances of a null address. All of these tickers are printed and their count is displayed.
 
 ## Citation
 
