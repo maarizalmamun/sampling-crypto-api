@@ -1,0 +1,4 @@
+matplotlib==3.3.2
+requests==2.22.0
+virtualenv==20.0.32
+virtualenv-clone==0.5.4
